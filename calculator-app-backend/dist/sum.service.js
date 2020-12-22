@@ -13,7 +13,7 @@ let SumService = class SumService {
         firstNumber = parseInt(firstNumber);
         secondNumber = parseInt(secondNumber);
         if (isNaN(firstNumber) || isNaN(secondNumber)) {
-            response.json({ message: 'It is not a numbers!' });
+            response.json({ error: 'It is not a numbers!' });
         }
         else
             return firstNumber + secondNumber;

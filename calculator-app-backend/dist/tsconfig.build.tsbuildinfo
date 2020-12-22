@@ -1382,7 +1382,7 @@
         "affectsGlobalScope": false
       },
       "../src/sum.service.ts": {
-        "version": "979683ffaaa78f538b9cd4f15d20072a8bebb643186d6c125f45034eee4a5713",
+        "version": "292aeef7c69977f6862c2345a627aeb47ef0f4bb187418b6d2a607a956bffa8d",
         "signature": "0c661d2a77bfbdf3d9ffef4d608bd9e50bcab7575155d5f08ef58f5068c74571",
         "affectsGlobalScope": false
       },
